@@ -17,7 +17,7 @@ function App() {
     "Estoy dispuesto a ser el mejor, el Cesar número 1, es más yo invento un nuevo nivel.",
     "Yo nunca me rindo.",
     "No es lo que pasó, es lo que haces con lo que pasó.",
-    "Hombres débiles persiguen mujeres, mujeres persiguen hombres fuertes, hombres fuertes persíguen propósito.",
+    "Hombres débiles persiguen mujeres, mujeres persiguen hombres fuertes, hombres fuertes persiguen propósito.",
     "Lo que no controlo no me afecta.",
   ])
   const [challenge, setChallenge] = useState([])
