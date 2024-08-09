@@ -16,6 +16,9 @@ function App() {
     "21 años es la edad perfecta para ser el mexicano que cambió el mundo.",
     "Estoy dispuesto a ser el mejor, el Cesar número 1, es más yo invento un nuevo nivel.",
     "Yo nunca me rindo.",
+    "No es lo que pasó, es lo que haces con lo que pasó.",
+    "Hombres débiles persiguen mujeres, mujeres persiguen hombres fuertes, hombres fuertes persíguen propósito.",
+    "Lo que no controlo no me afecta.",
   ])
   const [challenge, setChallenge] = useState([])
   const [challengeIdx, setChallengeIdx] = useState(0)
