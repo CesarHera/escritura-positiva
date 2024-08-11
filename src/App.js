@@ -16,6 +16,9 @@ function App() {
     "21 años es la edad perfecta para ser el mexicano que cambió el mundo.",
     "Estoy dispuesto a ser el mejor, el Cesar número 1, es más yo invento un nuevo nivel.",
     "Yo nunca me rindo.",
+    "Tener propósito no significa no tener días malos.",
+    "La falta de control no afecta mi propósito, tan solo me concentro en lo que controlo.",
+    "Los días malos son señal de progreso.",
   ])
   const [challenge, setChallenge] = useState([])
   const [challengeIdx, setChallengeIdx] = useState(0)
