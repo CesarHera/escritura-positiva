@@ -19,6 +19,9 @@ function App() {
     "No es lo que pasó, es lo que haces con lo que pasó.",
     "Hombres débiles persiguen mujeres, mujeres persiguen hombres fuertes, hombres fuertes persiguen propósito.",
     "Lo que no controlo no me afecta.",
+    "Tener propósito no significa no tener días malos.",
+    "La falta de control no afecta mi propósito, tan solo me concentro en lo que controlo.",
+    "Los días malos son señal de progreso.",
   ])
   const [challenge, setChallenge] = useState([])
   const [challengeIdx, setChallengeIdx] = useState(0)
